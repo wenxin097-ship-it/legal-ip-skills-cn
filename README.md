@@ -2,11 +2,14 @@
 
 面向 Codex 的中国法律与知识产权 skills 包。当前版本聚焦中国大陆法律与知识产权工作流，包含通用法律分析能力、商标 / 专利 / 著作权 / 商业秘密 / 开源合规等专业能力，以及一个独立的 skill 校验工具。
 
+Repository: https://github.com/wenxin097-ship-it/legal-ip-skills-cn
+
 ## 包含内容
 
 - `skills/`：可安装到 Codex 的 skills。
 - `docs/LEGAL_IP_SKILLS_GUIDE.md`：使用手册，按场景说明如何调用。
 - `docs/LEGAL_SKILLS_REVIEW_20260615.md`：改写和审阅记录。
+- `docs/GITHUB_REPOSITORY_SETTINGS.md`：GitHub About、topics 和 release 建议。
 - `skill_toolchain/`：独立校验工具，用于运行 Codex 官方 `quick_validate.py`。
 - `install.ps1` / `install.cmd`：安装脚本。
 
