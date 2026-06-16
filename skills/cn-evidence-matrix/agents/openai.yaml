@@ -1,0 +1,4 @@
+interface:
+  display_name: "中国诉讼证据矩阵"
+  short_description: "建立主张、构成要件、证据、证明力与证据缺口之间的矩阵"
+  default_prompt: "使用 $cn-evidence-matrix 为这些主张建立证据矩阵并指出缺口。"

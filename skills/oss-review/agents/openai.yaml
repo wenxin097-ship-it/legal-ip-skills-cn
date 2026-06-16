@@ -1,0 +1,4 @@
+interface:
+  display_name: "开源许可证合规"
+  short_description: "审查软件依赖和部署方式对应的开源许可证义务与披露风险"
+  default_prompt: "使用 $oss-review 根据依赖清单和部署方式评估开源合规风险。"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "法律事实与争点映射"
+  short_description: "把案件材料整理为主体、事实时间线、法律关系和争议焦点"
+  default_prompt: "使用 $cn-legal-fact-issue-mapping 将这些材料整理为事实、法律关系和争点。"

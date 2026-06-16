@@ -1,0 +1,4 @@
+interface:
+  display_name: "知识产权组合管理"
+  short_description: "分析知识产权组合期限、法律状态、维护成本和维持决策"
+  default_prompt: "使用 $portfolio 检查组合数据中的期限风险并生成行动清单。"

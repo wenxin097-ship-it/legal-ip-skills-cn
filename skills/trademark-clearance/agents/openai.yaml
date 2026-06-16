@@ -1,0 +1,4 @@
+interface:
+  display_name: "商标注册初筛"
+  short_description: "初筛中国大陆商标注册的在先权利、显著性及相对驳回风险"
+  default_prompt: "使用 $trademark-clearance 评估拟申请商标及指定商品服务的注册风险。"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "中国法律来源检索"
+  short_description: "检索并整理中国大陆现行法律、案例、监管规则及权威来源"
+  default_prompt: "使用 $cn-legal-source-research 检索这个问题的现行中国法律依据并列明来源。"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "中国法律推理"
+  short_description: "用要件分析、规则适用、抗辩检验和替代结论形成法律推理"
+  default_prompt: "使用 $cn-legal-reasoning 对已确认事实和规范进行结构化法律推理。"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "网络侵权投诉"
+  short_description: "起草电商平台或网络服务商知识产权投诉通知与材料清单"
+  default_prompt: "使用 $takedown 根据权利证明和侵权链接起草平台投诉材料。"

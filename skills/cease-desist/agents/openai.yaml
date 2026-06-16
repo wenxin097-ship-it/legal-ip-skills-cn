@@ -1,0 +1,4 @@
+interface:
+  display_name: "知识产权警告函"
+  short_description: "依据中国大陆法律起草知识产权侵权警告函或律师函草案"
+  default_prompt: "使用 $cease-desist 根据权利基础和侵权事实起草一份审慎的警告函。"

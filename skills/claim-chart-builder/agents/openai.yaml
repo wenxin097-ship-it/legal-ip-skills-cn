@@ -1,0 +1,4 @@
+interface:
+  display_name: "专利特征比对表"
+  short_description: "构建专利侵权、无效宣告或现有技术抗辩的逐项特征比对表"
+  default_prompt: "使用 $claim-chart-builder 将权利要求与目标技术方案逐项比对。"

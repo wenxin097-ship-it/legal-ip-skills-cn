@@ -1,0 +1,4 @@
+interface:
+  display_name: "知识产权条款审查"
+  short_description: "审查技术合同中的权属、许可、转让、保证与竞争法风险"
+  default_prompt: "使用 $ip-clause-review 审查这份技术合同的知识产权条款。"

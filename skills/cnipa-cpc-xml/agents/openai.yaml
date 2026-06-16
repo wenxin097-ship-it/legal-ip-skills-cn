@@ -1,0 +1,4 @@
+interface:
+  display_name: "CNIPA CPC XML"
+  short_description: "Review Word patent filings and package CPC XML."
+  default_prompt: "Use this skill to review a CNIPA invention or utility model filing folder, especially CPC递交, WORD转XML编辑器, Word转XML, 五书模板, and 国家知识产权局专利业务办理系统 work. Perform pre-submission review, explain issues before editing, optionally create a revision copy, generate XML with the installed Word plugin, and package the final ZIP files."

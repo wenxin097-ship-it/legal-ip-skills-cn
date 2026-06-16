@@ -1,0 +1,4 @@
+interface:
+  display_name: "中国法律规范效力核验"
+  short_description: "核验中国法律规范的现行效力、层级、地域范围和时间适用"
+  default_prompt: "使用 $cn-legal-norm-validity 核验这些法律依据是否现行有效并适用于本案。"

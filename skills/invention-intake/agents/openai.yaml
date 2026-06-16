@@ -1,0 +1,4 @@
+interface:
+  display_name: "专利交底书初评"
+  short_description: "初筛专利交底书的三性、主题适格性、期限义务与申请策略"
+  default_prompt: "使用 $invention-intake 审阅交底书并给出申请策略建议。"
