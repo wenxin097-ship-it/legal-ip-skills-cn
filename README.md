@@ -24,6 +24,14 @@
 %USERPROFILE%\.codex\skills
 ```
 
+也可以从 GitHub 克隆后安装：
+
+```powershell
+git clone https://github.com/wenxin097-ship-it/legal-ip-skills-cn.git
+cd legal-ip-skills-cn
+.\install.cmd
+```
+
 安装完成后，可校验所有已安装用户 skills：
 
 ```powershell
@@ -78,4 +86,3 @@
 ## 边界说明
 
 本项目提供工作流和分析框架，不构成律师正式法律意见。涉及最新法律、期限、金额、平台规则、官方数据库检索和对外法律文书时，应结合实时官方来源和专业人员复核。
-
